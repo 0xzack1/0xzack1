@@ -2,7 +2,7 @@
 I hold a degree in Cyber Security and have genuine passion for offensive security and penetration testing, developed through hands-on university projects and self-directed learning. This where I will be sharing my cyber security journey, including penetration testing reports, vulnerability assessments, malware analysis findings, and CTF write ups. 
 
 ## 🛠️ Languages and Tools
-### Programming Languages
+### Programming Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -19,4 +19,18 @@ I hold a degree in Cyber Security and have genuine passion for offensive securit
 ### SIEM & Monitoring
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+## 📈 Current Focus
+🎯 **AD Attacks & Exploitation**: Learning Active Directory penetration techniques (Kerberoasting, Pass-the-Hash, DCSync attacks...)
+
+🌐 **Enterprise Network Pivoting**: Learning lateral movement strategies in complex environments
+
+
+⚡ **Post-Exploitation Techniques**: Command & Control (C2) frameworks and persistence mechanisms
+
+
+🥷 **Stealth Techniques**: Learning techniques to avoid detection during penetration testing engagements
+  
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zack-ouahi/)
 
