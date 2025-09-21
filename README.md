@@ -30,7 +30,5 @@ I hold a degree in Cyber Security and have genuine passion for offensive securit
 
 
 🥷 **Stealth Techniques**: Learning techniques to avoid detection during penetration testing engagements
-  
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zack-ouahi/)
+
 
