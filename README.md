@@ -1,7 +1,7 @@
 ## 🛡️ About Me
 I hold a degree in Cyber Security and have genuine passion for offensive security and penetration testing, developed through hands-on university projects and self-directed learning. This where I will be sharing my cyber security journey, including penetration testing reports, vulnerability assessments, malware analysis findings, and CTF write ups. 
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -20,17 +20,3 @@ I hold a degree in Cyber Security and have genuine passion for offensive securit
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-<!--
-**0xzack1/0xzack1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
